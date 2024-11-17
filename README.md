@@ -1,2 +1,4 @@
-# Digital-Electronics
-Digital Electronic components are created with the help of Python programming language
+# My-Repository
+1. Python
+2. Visual Basic
+3. Microsoft Excel
